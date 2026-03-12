@@ -15,7 +15,7 @@
 - 💡 Interested in **Web Development, AI, and Backend Systems**  
 - 🛠️ Love building **real-world projects**  
 - 📚 Currently learning **React and backend technologies**  
-- 📍 Based in India 🇮🇳  
+  
 
 ---
 
