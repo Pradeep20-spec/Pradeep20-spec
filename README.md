@@ -43,9 +43,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradeep20-spec&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep20-spec&layout=compact&theme=tokyonight)
+![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradeep20-spec&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep20-spec&layout=compact&theme=tokyonight)
 
 ---
 
