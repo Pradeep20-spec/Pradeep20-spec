@@ -64,4 +64,4 @@
 
 ---
 
-⭐ From [Pradeep20-spec](https://github.com/YOURUSERNAME)
+⭐ From [Pradeep20-spec](https://github.com/Pradeep20-spec)
